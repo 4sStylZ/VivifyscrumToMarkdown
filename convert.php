@@ -4,7 +4,6 @@
         throw new Exception('1st parameter must be the file path.');
     }
 
-
     /**
      * Importing the sprint csv file in a array.
      */
